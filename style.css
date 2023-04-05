@@ -1,0 +1,26 @@
+.captcha::first-letter{
+    font-size: 25px;
+}
+
+.captcha::letter{
+    font-size: 2px;
+}
+.captcha{
+    font-size: 20px;
+    font-weight: 900;
+    padding: 15px;
+    line-height: 1.5;
+    background: #eee;
+    letter-spacing: 7px;
+    display: inline-block;
+
+}
+
+.captcha-input{
+margin-left: 20px;
+padding: 20px;
+}
+.redo{
+  font-size: 23px !important;
+  cursor: pointer;
+}
